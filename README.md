@@ -3,7 +3,6 @@
 <html>
 <body>
 <head>
-<h1> steps to bag em hoes </h1>
 <p1>YOU AINT BAGGIN NO HOES NIGGA, GO BEAT YO MEAT BUDDY BOY</p1>
 </body>
 </html>
